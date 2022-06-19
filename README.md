@@ -9,8 +9,8 @@
 
 ### 📕 Tools
 
-- [Nuxt](https://typescript.nuxtjs.org/cookbook/store)
 - [Vue](https://vuejs.org/)
+- [Nuxt](https://typescript.nuxtjs.org/cookbook/store)
 - [React](https://reactjs.org/)
 - [Next](https://nextjs.org/)
-- [Adonis](https://adonisjs.com/)
+- [Node](https://nodejs.org/en/)
