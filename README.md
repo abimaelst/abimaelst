@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px"> Hello, I'm Abimael!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Abimael!
 
 💻 I'm a Fullstack Developer   <br>
 🏡 Brazilian, Based in Fortaleza, CE. 
