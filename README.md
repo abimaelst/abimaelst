@@ -13,6 +13,7 @@
 - [Nuxt](https://typescript.nuxtjs.org/cookbook/store)
 - [React](https://reactjs.org/)
 - [Next](https://nextjs.org/)
+- [React-Native](https://reactnative.dev/)
 - [Angular](https://angular.io/)
 - [Node](https://nodejs.org/en/)
 - [Laravel](https://laravel.com/)
