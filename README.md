@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abimael Tavares 👋</h1>
 <p align="center">
   <b>Full Stack Engineer · Tech Lead · Performance Optimizer</b><br>
-  Tres Cantos, Madrid · <a href="mailto:tavares@abimael.dev.br">tavares@abimael.dev.br</a> · <a href="tel:+34610693775">+34 610-693-775</a>
+  Tres Cantos, Madrid · <a href="mailto:tavares@abimael.dev.br">tavares@abimael.dev.br</a>
   <br>
   <a href="https://linkedin.com/in/abitavares">LinkedIn</a>
 </p>
